@@ -1,0 +1,17 @@
+.orange{
+ color: orange
+}
+.rate{
+    color: pink;
+    margin-top: 20px;
+    border-top: 2px solid;
+}
+.purple{
+    color:purple;
+    font-size: 2rem;
+    
+}
+.rate{
+    font-size: 2rem;
+    cursor: pointer;
+}
